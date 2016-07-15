@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="category_food">#2CE258</color>
+    <color name="category_interestPlace">#2C71E2</color>
+    <color name="category_park">#9A2CE2</color>
+    <color name="category_religion">#E2B32C</color>
+</resources>

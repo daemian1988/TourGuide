@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Welcome to Singapore</string>
+    <string name="foodTitle">Interesting food</string>
+    <string name="placeTitle">Interesting places</string>
+    <string name="parkTitle">Interesting park</string>
+    <string name="religionTitle">Race</string>
+
+    <string name="chickenRice">Chicken Rice</string>
+    <string name="nasi">Nasi Lemak</string>
+
+    <string name="introStart">Below are the 4 main category which wil introduce Singapore</string>
+    <string name="category_food">Nice food</string>
+    <string name="category_interestPlace">Place of interest</string>
+    <string name="category_park">Nice park to go</string>
+    <string name="category_religion">Different religion</string>
+    <string name="foodDetail">Food Details</string>
+    <string name="placesDetails">Interesting places Details</string>
+    <string name="parkDetails">Park Details</string>
+    <string name="raceDetails">Race Details</string>
+
+    <string name="indian">Indian people or Indians are citizens of India, the second most populous nation containing 17.50\% of the world\'s population.</string>
+    <string name="malayDesc">Malays (Malay: Orang Melayu, Jawi: اورڠ ملايو) are an ethnic group of Austronesian peoples predominantly inhabiting the Malay Peninsula, eastern Sumatra and coastal Borneo, as well as the smaller islands which lie between these locations — areas that are collectively known as the Malay world.</string>
+    <string name="chineseDesc">Among the difficulties in the study of ethnic groups in China are the relatively long periods of time involved, together with the large volume of literary and historical records which have accompanied the history of China. Classical Chinese ethnography (like much then-contemporary ethnography) was often sketchy, leaving it unclear as to whether Chinese-depicted names referred to a true ethnic group or a possibly multiethnic political entity. Even then, ethnonyms were sometimes assigned by geographic location or surrounding features, rather than by any features of the people themselves, and often carried little distinction of who the Han Chinese authors considered Chinese and non-Chinese for differences such as lifestyle, language, or governance. Many of the ethnonyms were historically used in such a way as to invite comparison with the word barbarian</string>
+    <string name="wwfDesc">A scenic and tranquil coastal park offering an exceptional view of the sea from the north, Woodlands Waterfront is a favourite among residents and visitors young and old. The 11-hectare park houses a large playground with a wide range of equipment and a 1.5-kilometre-long waterfront promenade, making it an ideal spot for recreational activities.</string>
+    <string name = "ecpDesc">The East Coast Park is a beach park located on the southeastern coast of Singapore. It was opened in the 1970s, when the government completed reclaiming land off the coast at Katong which extends from Changi to Kallang.</string>
+    <string name = "mbsDesc">Marina Bay Sands is an integrated resort fronting Marina Bay in Singapore. Developed by Las Vegas Sands, it is billed as the world\'s most expensive standalone casino property at S\$8 billion, including the land cost</string>
+    <string name = "ussDesc">Universal Studios Singapore is 20 hectares (49 acres) in size, occupying the easternmost part of the 49-hectare (120-acre) Resorts World Sentosa. There are a total of 24 attractions, of which 18 are original or specially adapted for the park.</string>
+    <string name="nasiDesc">Nasi lemak is a Malay fragrant rice dish cooked in coconut milk and pandan leaf. It is commonly found in Malaysia, where it is considered the national dish; it is also popular in neighbouring countries such as Singapore; Indonesia (especially in Eastern Sumatra), Brunei, and Southern Thailand.</string>
+    <string name="chickenRiceDesc">The Hainanese chicken rice is a dish that consists of succulent steamed white chicken that is cut into bite-size pieces and served on fragrant rice with some light soy sauce. The dish is topped with sprigs of coriander leaf and sesame oil, and accompanied by a delicious garlic-chilli dip.</string>
+</resources>
